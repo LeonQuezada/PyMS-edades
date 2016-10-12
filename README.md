@@ -1,2 +1,2 @@
-#Calculadora
-[![Travis](https://travis-ci.org/LeonQuezada/calculadora2016.svg)](https://travis-ci.org/LeonQuezada/calculadora2016.svg)
+#PyMS-edades
+[![Travis](https://travis-ci.org/LeonQuezada/PyMS-edades.svg)](https://travis-ci.org/LeonQuezada/PyMS-edades.svg)
